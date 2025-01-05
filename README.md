@@ -1,4 +1,5 @@
 Dynamic Enhanced Resource-Aware Load Balancing Algorithm for Cloud Computing. 
+
 Output 1: 
 ![dralba4](https://github.com/user-attachments/assets/0f6f8d6a-ca56-4003-b3cb-f3c6120da019)
 
